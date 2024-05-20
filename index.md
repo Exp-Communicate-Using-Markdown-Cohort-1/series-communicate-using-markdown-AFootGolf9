@@ -7,3 +7,7 @@
 ```
 print('Hello World')
 ```
+
+- [x] started
+- [ ] learned
+- [ ] mastered
